@@ -1,0 +1,3 @@
+- OpenAI API: https://platform.openai.com/docs
+- FastAPI: https://fastapi.tiangolo.com/
+- Uvicorn: https://www.uvicorn.org/
